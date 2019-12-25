@@ -30,3 +30,4 @@ namespace App2
         }
     }
 }
+/*tanaka kouta*/
